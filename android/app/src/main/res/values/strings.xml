@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MudahPrompt Malaysia</string>
+    <string name="title_activity_main">MudahPrompt Malaysia</string>
+    <string name="package_name">com.mudahprompt.malaysia</string>
+    <string name="custom_url_scheme">com.mudahprompt.malaysia</string>
+</resources>
