@@ -21,7 +21,7 @@ const translations = {
     'common.copy': 'Salin',
     'common.generate': 'Jana',
     'common.clear': 'Kosongkan',
-    'common.search': 'Cari',
+    'common.search': 'Carian',
     'common.filter': 'Tapis',
     'common.back': 'Kembali',
     'common.next': 'Seterusnya',
